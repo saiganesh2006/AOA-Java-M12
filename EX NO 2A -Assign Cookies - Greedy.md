@@ -63,4 +63,4 @@ public class AssignCookies {
 
 
 ## Result:
-The program successfully print all the numbers from 1 to N. 
+The program successfully implemented and the expected output is verified.
